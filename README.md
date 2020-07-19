@@ -1,13 +1,5 @@
-### Here is what I am currently working on
+Hi. I’m Joshua, a frontend web developer from Kogi state, Nigeria. I have been developing web applications for the last 1 year. I'm super passionate about development and how the web works in general.
 
-Here are some ideas to get you started:
+A little more... I love to share what I know through teaching. I specialize in helping others learn how to code and I believe anything can be overcome through commitment and hardwork. I'm always up for new things.
+From a technical standpoint, I spend most of my time working with HTML5, CSS3 and JavaScript. When not creating websites, I like to play video games.
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ... React, Firebase and NodeJS
-- 👯 I’m looking to collaborate on ... ReactJS projects
-- 🤔 I’m looking for help ... on learning ReactJS effectively
-- 💬 Ask me about ... Anything frontend relation
-- 📫 How to reach me: ... [Joshua Folorunsho](https://www.joshuafolorunsho.com)
-- 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ...
--->
